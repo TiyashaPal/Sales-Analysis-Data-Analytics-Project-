@@ -11,3 +11,4 @@ In the Sales Performance Enhancement project, our mission was to empower decisio
 
 Key Findings:
 Analyzed pizza sales data to gain insights into the business performance by calculating the following metrics like Total revenue, Average order value etc. and visualizing key trends like Daily Trend, Monthly Trend for Total orders ,Percentage of Sales by Category and more.
+link of the Dashboard:
