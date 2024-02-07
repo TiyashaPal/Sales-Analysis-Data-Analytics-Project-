@@ -1,4 +1,4 @@
-# Sales-Analysis-Data-Analytics-Project-
+# Sales-Insights-Data-Analytics-Project-
 
 Insights-Sales Domain:
 Pizza Mania, is a multinational pizza restaurant chain. Yet, they lack quick insights for smart decisions. So, a SQL challenge is on the horizon to fill this data gap.
